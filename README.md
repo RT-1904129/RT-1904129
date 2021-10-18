@@ -8,6 +8,6 @@
 - 💻 Passion to exploring and learning new things. Fond of various parts of Artificial Intelligence
 - 🌱 I’m currently exploring **Reinforcement Learning** and also focusing on my **Problem Solving skills**
 - 👯 I’m looking to collaborate on Machine Learning Project 
-- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rishabh-tripathi-70707b1a0/) [instagram](https://www.instagram.com/rishabh.tripathi.19041/)
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/rishabh-tripathi-70707b1a0/) [![image](https://user-images.githubusercontent.com/74362927/137663646-d3de1271-7512-48fb-84c7-5659a81f76a5.png)](https://www.instagram.com/rishabh.tripathi.19041/)
 
 - ⚡ Check my project below !!
