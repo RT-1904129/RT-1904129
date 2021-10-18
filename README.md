@@ -5,9 +5,9 @@
 -->
 
 - 🎓 Currently pursuing a Bachelor of Technology in **Computer Science at IIT Goa**.
-- 💻 Passion to exploring and learning new things. Fond of various parts of Artificial Intelligence: **Machine Learning** ,**Reinforcement Learning**
+- 💻 Passion to exploring and learning new things. Fond of various parts of Artificial Intelligence
 - 🌱 I’m currently exploring **Reinforcement Learning** and also focusing on my **Problem Solving skills**
 - 👯 I’m looking to collaborate on Machine Learning Project 
-- 📫 How to reach me: ![image](https://user-images.githubusercontent.com/74362927/137662386-1f4ff818-c196-4621-9b80-d14f3b34b4a6.png)
+- 📫 How to reach me: Linkdin [https://www.linkedin.com/in/rishabh-tripathi-70707b1a0/]
 
 - ⚡ Check my project below !!
